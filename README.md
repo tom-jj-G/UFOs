@@ -9,8 +9,9 @@ The objectives is to:
 
 ## Resources
 
-index: cf. **index** file
-other structures: cf. **static** folder
+- index: cf. **index** file
+
+- other structures: cf. **static** folder
 
 ## Technologies used
 
@@ -23,9 +24,12 @@ other structures: cf. **static** folder
 ## Recommendation for further development
 
 In order to strengthen the research on the website, we could include an additional filter easily implemented: the ability to search by keywords into the *Comments* column.
+
 Indeed, and for instance, it could be interesting to find all events where people saw an aircraft by typing "aircraft" into the new filter.
+
 Additionally, some data cleaning might be necessary as some typo or special characters are present into the *comments* data.
 
 
 ## Website Overview
+*Zoom level: 50%*
 ![website_overview.png](website_overview.png)
