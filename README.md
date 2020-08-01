@@ -9,6 +9,23 @@ The objectives is to:
 
 ## Resources
 
+index: cf. **index** file
+other structures: cf. **static** folder
+
 ## Technologies used
 
+- JavaScript:
+    - version ES6+
+    - D3.js
+- HTML (Bootstrap’s CDN)
+- CSS
+
 ## Recommendation for further development
+
+In order to strengthen the research on the website, we could include an additional filter easily implemented: the ability to search by keywords into the *Comments* column.
+Indeed, and for instance, it could be interesting to find all events where people saw an aircraft by typing "aircraft" into the new filter.
+Additionally, some data cleaning might be necessary as some typo or special characters are present into the *comments* data.
+
+
+## Website Overview
+![website_overview.png](website_overview.png)
