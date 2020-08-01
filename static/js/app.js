@@ -35,7 +35,7 @@ function updateFilters(event) {
   
   // Save the element, value, and id of the filter that was changed
   let id = d3.event.target.id;
-  // Removing white spaces
+  // Removing white spaces from input
   let value = d3.event.target.value.trim();
 
   // If a filter value was entered then add that filterId and value
@@ -49,7 +49,7 @@ function updateFilters(event) {
       id: id,
       value: value
     };
-    // Removing existing value if aleardy entered
+    // Removing existing value if already entered
     filters = filters.filter(row => row.id != id);
     // Adding the new value
     filters.push(newFilter);
