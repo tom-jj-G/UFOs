@@ -31,5 +31,5 @@ Additionally, some data cleaning might be necessary as some typo or special char
 
 
 ## Website Overview
-*Zoom level: 50%*
+:alien: *Zoom level: 50%*
 ![website_overview.png](website_overview.png)
