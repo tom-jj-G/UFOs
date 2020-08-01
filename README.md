@@ -27,7 +27,7 @@ In order to strengthen the research on the website, we could include an addition
 
 Indeed, and for instance, it could be interesting to find all events where people saw an aircraft by typing "aircraft" into the new filter.
 
-Additionally, some data cleaning might be necessary as some typo or special characters are present into the *comments* data.
+Additionally, some data cleaning might be necessary as some typos or special characters are present into the *Comments* data.
 
 
 ## Website Overview
